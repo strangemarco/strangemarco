@@ -31,10 +31,7 @@
 ---
 
 ### 🌐 **Formación Académica:**
-- **Máster en Ingeniería de Software** – FIAP (Abril 2023 - Mayo 2024)
-- **Bachillerato en Sistemas de Información** – Estácio (Julio 2018 - Junio 2022)
-- **Técnico en Informática para Internet** – Etec (2014 - 2016)
-
+- **Estudiante de Ingeniería de Sistemas** – UPDS (Febrero 2022 - Actualmente)
 ---
 
 ## 📚 **Lenguajes y Frameworks:**
