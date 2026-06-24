@@ -1,7 +1,7 @@
 # 👋 ¡Hola, soy **Marco Alejandro Justiniano Lara**!
 
 **Estudiante de Ingeniería en Sistemas** en la **Universidad Privada Domingo Savio**  
-**Desarrollador en el Rectorado Nacional** 
+**Desarrollador en Rectorado Nacional** 
 📅 **24 años**  
 
 ---
